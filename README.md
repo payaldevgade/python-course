@@ -1,3 +1,2 @@
 # python-course
-
 Python practice 
