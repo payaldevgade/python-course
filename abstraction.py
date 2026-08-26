@@ -1,6 +1,6 @@
 from abc import ABC, abstractmethod
 
-class Abstract(ABC): 
+class Abstract(ABC):
 
     @abstractmethod
     def parameter(self):
