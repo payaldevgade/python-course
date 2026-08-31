@@ -4,7 +4,7 @@ class Abstract(ABC):
 
     @abstractmethod
     def parameter(self):
-        pass
+        pass 
 
     @abstractmethod
     def area(self):
