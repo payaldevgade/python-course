@@ -3,7 +3,7 @@ from abc import ABC, abstractmethod
 class Abstract(ABC):
 
     @abstractmethod
-    def parameter(self):
+    def parameter(self): 
         pass 
 
     @abstractmethod
