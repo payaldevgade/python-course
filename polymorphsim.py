@@ -9,6 +9,7 @@ class Animal:
 # METHOD OVER RIDING SUPPORTS
 
 class Human(Animal):
+    
     def show(self):
         print(f" Hello i am anil")
 
