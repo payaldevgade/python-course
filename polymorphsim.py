@@ -1,6 +1,7 @@
 # METHOD OVER LOADING DOES NOT SUPPORT
 
 class Animal:
+    
     def show(self):
         print(f" Hello i am puppy")
 
