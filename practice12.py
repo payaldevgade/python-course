@@ -11,6 +11,7 @@ for i in a:
         
     elif i.isalpha():
         char +=1
+        
     else:
         spchr +=1
 print(f" your digits are {dig}\n your alphabets are {char}\n your special characters are{spchr}")
