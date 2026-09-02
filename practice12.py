@@ -8,6 +8,7 @@ for i in a:
     
     if i.isdigit():
         dig +=1
+        
     elif i.isalpha():
         char +=1
     else:
