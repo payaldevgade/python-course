@@ -5,4 +5,5 @@ if age>= 18:
     
     print(f"eligiable for vote")
 else:
+    
     print(f"not eligiable for vote")
