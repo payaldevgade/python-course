@@ -6,6 +6,7 @@ class Animal:
         print(f" Hello i am showing")
 
 class Human:
+    
     def show(self):
         print(f" Hello i am also showing")
 
