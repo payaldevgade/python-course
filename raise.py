@@ -11,6 +11,7 @@ try:
         print("welcome to the club")
 
 except Exception  as e:
+    
     print(f" an error occured as {e}")
 
 print(" the club will start soon")            
