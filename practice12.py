@@ -5,6 +5,7 @@ dig = 0
 spchr = 0
 
 for i in a:
+    
     if i.isdigit():
         dig +=1
     elif i.isalpha():
