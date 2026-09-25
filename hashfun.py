@@ -5,6 +5,7 @@ a = hash("Hello World")
 print(a)
 
 # int
+
 b = hash(1234)
 
 print(b)
