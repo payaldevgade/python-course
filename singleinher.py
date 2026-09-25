@@ -1,5 +1,4 @@
 # Parent Class
-
 class Animal:
     
     
