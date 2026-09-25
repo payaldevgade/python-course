@@ -1,7 +1,6 @@
 # Parent Class
 class Animal:
     
-    
     def eat(self):
         
         print("Animal is eating")
