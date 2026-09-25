@@ -11,5 +11,7 @@ b = int(b)
 print(type(b)) 
 
 c = 20 #boolean
+
 print(bool(c))
+
  
