@@ -1,6 +1,7 @@
 a = 20 #inttypecon
 
 a = str(a)
+
 print(type(a))
 
 b = "56" #stringtypecon
