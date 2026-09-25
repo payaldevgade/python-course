@@ -7,6 +7,7 @@ class Animal:
         print("Animal is eating")
 
 # Child Class
+
 class Dog(Animal):
     
     def bark(self):
