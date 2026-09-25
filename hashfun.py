@@ -1,4 +1,5 @@
 # string 
+
 a = hash("Hello World")
 
 print(a)
