@@ -1,4 +1,4 @@
-print(ord("A")
+print(ord("A"))
 
 print(ord("B"))
       
