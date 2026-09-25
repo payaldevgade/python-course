@@ -17,5 +17,6 @@ class Dog(Animal):
 d = Dog()
 
 # Calling Methods
+
 d.eat()     # Inherited from Parent
 d.bark()    # Child's own method
